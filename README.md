@@ -231,5 +231,4 @@ npm run build
 
 ## 👨‍💻 Author
 
-**Firoz Ahmad**  
-[GitHub](https://github.com/firoz1860) · [LinkedIn](https://www.linkedin.com/in/firoz-ahmad-020166251/)
+**Ashraf Ali**  
